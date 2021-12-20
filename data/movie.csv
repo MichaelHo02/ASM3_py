@@ -1,0 +1,51 @@
+id,quantity,movie,genre,studio
+1,1,Outside the Law (Hors-la-loi),Crime|Drama|War,Conn-Torp
+2,13,Racing with the Moon,Comedy|Drama|Romance,Schuppe Group
+3,24,"Saint, The",Action|Romance|Sci-Fi|Thriller,"Balistreri, Bogan and McDermott"
+4,7,"Bank Dick, The",Comedy,McDermott-Kuhn
+5,79,Holiday Affair,Drama|Romance,Gorczany LLC
+6,58,"Wild, The",Adventure|Animation|Children|Comedy|Fantasy,Feeney Inc
+7,100,Sangre de mi sangre (Padre Nuestro),Drama|Thriller,Macejkovic-Shields
+8,33,"Keeper, The",Crime|Drama|Thriller,Miller-Kovacek
+9,42,Spasmo,Mystery|Thriller,"Sawayn, O'Conner and Donnelly"
+10,81,"Letzte schöne Herbsttag, Der",Comedy|Drama|Romance,Murazik and Sons
+11,65,Ghosts of Mississippi,Drama,Boehm Group
+12,64,"Land Girls, The",Drama|War,Reilly Group
+13,39,L'homme qui rit,Drama|Fantasy|Romance,"Turcotte, Rippin and O'Connell"
+14,44,La Morte Rouge,(no genres listed),Mante-Brakus
+15,15,Air Bud: Golden Receiver,Children|Comedy,Douglas-Halvorson
+16,30,"Living Dead Girl, The (Morte Vivante, La)",Horror,King Group
+17,61,Sling Blade,Drama,Cassin-Wiza
+18,7,"Long Way Down, A",Comedy|Drama,Gaylord-Lang
+19,31,Hurry Sundown,Drama,"Abshire, Schinner and Thiel"
+20,92,Ghost Town,Comedy|Fantasy|Romance,Koch Inc
+21,75,Life in Flight ,Drama,Kulas-Bartoletti
+22,8,Diamond Girl,Drama|Romance,Hartmann and Sons
+23,69,A mí las mujeres ni fu ni fa,Comedy|Musical,Bergnaum Inc
+24,4,Bachelor in Paradise,Comedy|Romance,"Hahn, Pagac and Hammes"
+25,52,Gunfight at the O.K. Corral,Western,"Kertzmann, Haag and Mayert"
+26,35,Karen Cries on the Bus,Drama,Mraz Inc
+27,64,Mr. Mom,Comedy|Drama,Orn Inc
+28,59,Jim Jefferies: I Swear to God,Comedy,"Considine, Lakin and Brakus"
+29,31,The Story of Asya Klyachina,Drama|Romance,"Koss, Batz and Walker"
+30,77,William Vincent (Shadows and Lies),Drama,Koch-Labadie
+31,70,Salla: Selling the Silence,Documentary,Fritsch-Quigley
+32,92,Wild Guitar,Drama|Musical|Romance,"Skiles, Kreiger and Marquardt"
+33,18,Le convoyeur,Crime|Drama|Thriller,"O'Keefe, Leuschke and Brown"
+34,42,Hype!,Documentary,Kilback Inc
+35,38,100 Years of Evil,Adventure|Comedy|Documentary,"Terry, Stamm and Kovacek"
+36,68,Castle Keep,Drama|War,"Hills, Cummings and Satterfield"
+37,86,The Virginian,Romance|Western,"Powlowski, Crooks and Ernser"
+38,29,Pumzi,Sci-Fi,"Quitzon, Streich and Mraz"
+39,15,Woman Obsessed,Drama|Romance,Corwin-Morar
+40,60,Blue Caprice,Crime|Drama,Macejkovic Inc
+41,57,"Ambushers, The",Comedy|Sci-Fi|Thriller,Nienow-Willms
+42,5,"Story of the Weeping Camel, The (Geschichte vom weinenden Kamel, Die)",Documentary|Drama,Ernser-Corkery
+43,46,Never Weaken,Comedy|Thriller,"Moen, Quigley and Rolfson"
+44,100,Muck,Horror,Rice-Kautzer
+45,70,Peter and Vandy,Comedy|Drama|Romance,Gleichner-Williamson
+46,9,After Office Hours,Comedy|Crime|Drama,Baumbach-Monahan
+47,70,Crime and Punishment,Drama,"Rath, Bahringer and Gibson"
+48,17,Phar Lap,Children|Drama,"Zemlak, Farrell and Brekke"
+49,98,"Alphabet Killer, The",Crime,McKenzie-Bayer
+50,49,The Hire: Beat the Devil,Action|Adventure|Comedy,"Rodriguez, Hermiston and Abernathy"
